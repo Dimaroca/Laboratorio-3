@@ -1,0 +1,26 @@
+# 🏥 Hospital Management System
+
+Sistema de gestión hospitalaria desarrollado en **Java**, diseñado para administrar doctores de distintas especialidades, citas médicas y cálculos de salario.  
+Permite registrar, consultar y organizar información de manera modular y orientada a objetos.
+
+---
+
+## 🚀 Características Principales
+
+- Creación de diferentes tipos de doctores:
+  - **General**
+  - **Cirujano**
+  - **Radiólogo**
+  - **Terapeuta**
+- Registro y gestión de **citas médicas** (crear, reagendar o eliminar)
+- Cálculo automático de **salarios**, considerando:
+  - Consultas realizadas
+  - Horas de cirugía
+  - Tarifas por estudio o terapia
+  - Bonos adicionales
+- Administración centralizada a través de la clase `Hospital`
+
+---
+
+## 🧩 Estructura del Proyecto
+
